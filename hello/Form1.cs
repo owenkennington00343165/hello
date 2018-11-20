@@ -24,8 +24,8 @@ namespace hello
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Message8ox.show("hello"]:
-            ........
+            MessageBox.Show("hello " + txtbxName. Text);
+            
 
         }
     }
